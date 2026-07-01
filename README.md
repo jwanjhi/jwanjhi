@@ -3,7 +3,7 @@
 **Junior Software Engineer** • Go, Kotlin, Node.js • Building backend systems and scalable APIs.
 
 ### 🔭 Current focus
-Building a Go CDN server and exploring containerized deployments with Docker & Kubernetes.
+Designing an AI-powered mentorship recommendation platform to improve mentor–mentee matching for university students.
 
 ### 💼 Skills
 - **Languages:** Kotlin, JavaScript (Node.js)
