@@ -13,7 +13,7 @@ I'm passionate about building intelligent software, scalable backend systems, an
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/joy-wanjohi39/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -42,7 +42,7 @@ I'm passionate about building intelligent software, scalable backend systems, an
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,go,javascript,typescript"/>
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,javascript,typescript"/>
 </p>
 
 ### Backend
@@ -108,14 +108,6 @@ A Java Swing application simulating a single-server bank queue using probability
 A digital marketplace connecting farmers with buyers, featuring inventory management, secure authentication, and backend APIs.
 
 **Tech:** React • Node.js • PostgreSQL
-
----
-
-## 🍽 Recipe Web
-
-A recipe discovery platform allowing users to browse, manage, and organize recipes.
-
-**Tech:** React • Express • Node.js
 
 ---
 
