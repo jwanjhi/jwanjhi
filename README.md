@@ -111,21 +111,6 @@ A digital marketplace connecting farmers with buyers, featuring inventory manage
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=jwanjhi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwanjhi&layout=compact&theme=tokyonight"
-    height="170"
-  />
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
@@ -141,16 +126,6 @@ A digital marketplace connecting farmers with buyers, featuring inventory manage
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jwanjhi&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jwanjhi&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
@@ -174,7 +149,7 @@ A digital marketplace connecting farmers with buyers, featuring inventory manage
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/joy-wanjohi39/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
