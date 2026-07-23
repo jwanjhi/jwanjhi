@@ -77,7 +77,39 @@ I'm passionate about building intelligent software, scalable backend systems, an
 
 ---
 
-# 📌 Featured Projects
+# 💼 Professional Projects
+
+### 🌐 HOF Businessmen
+Business website developed as part of a collaborative software development project.
+
+**Role**
+- Full-stack Developer
+- Backend API Development
+- Database Design
+- Feature Implementation
+
+**Tech**
+React • Node.js • Express • PostgreSQL
+
+🔗 https://www.hofbusinessmen.com/
+
+---
+
+### 🏢 Ndovu Group
+Corporate business platform featuring user management, product listings, and secure backend APIs.
+
+**Role**
+- Backend Development
+- REST API Design
+- Database Integration
+- Authentication
+
+**Tech**
+React • Node.js • Express • PostgreSQL
+
+🔗 https://ndovugroup.com/
+
+# 📌 Featured Personal Projects
 
 ## 🤖 AI Mentorship Platform
 
@@ -92,14 +124,6 @@ An intelligent mentor recommendation system that leverages NLP, Sentence-BERT em
 Machine Learning project predicting house prices using data preprocessing, feature engineering, Linear Regression, and Random Forest models.
 
 **Tech:** Python • Scikit-learn • Pandas • Matplotlib
-
----
-
-## 🏦 Bank Queue Simulation
-
-A Java Swing application simulating a single-server bank queue using probability distributions, complete with statistical analysis and customer-by-customer simulation.
-
-**Tech:** Java • Swing
 
 ---
 
