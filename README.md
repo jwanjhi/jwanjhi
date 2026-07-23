@@ -6,6 +6,9 @@
 
 ### Software Engineer • AI & Machine Learning Enthusiast • Backend Developer
 
+🎓 **Bachelor of Science in Informatics & Computer Science**  
+**Strathmore University** | Fourth-Year Student
+
 I'm passionate about building intelligent software, scalable backend systems, and solving real-world problems through technology. I enjoy combining software engineering with Artificial Intelligence to create practical, impactful solutions.
 
 <p>
