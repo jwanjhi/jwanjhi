@@ -39,41 +39,63 @@ I'm passionate about building intelligent software, scalable backend systems, an
 
 # 🚀 Tech Stack
 
-### Languages
+###  Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,javascript,typescript"/>
+  <img src="https://skillicons.dev/icons?i=python,java,kotlin,javascript,typescript"/>
 </p>
 
-### Backend
+**Python** • **Java** • **Kotlin** • **JavaScript** • **TypeScript**
+
+---
+
+###  Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring"/>
 </p>
 
-### Frontend
+**Node.js** • **Express.js** • **Spring Boot**
+
+---
+
+###  Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css"/>
+  <img src="https://skillicons.dev/icons?i=react,html,css"/>
 </p>
 
-### Databases
+**React** • **HTML5** • **CSS3**
+
+---
+
+###  Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
 </p>
 
-### AI & Data Science
+**PostgreSQL** • **MySQL** • **MongoDB**
+
+---
+
+###  AI & Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
+  <img src="https://skillicons.dev/icons?i=python"/>
 </p>
 
-### Tools
+**Scikit-learn** • **Pandas** • **NumPy** • **NLTK** • **Sentence Transformers (SBERT)**
+
+---
+
+###  Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma"/>
 </p>
+
+**Git** • **GitHub** • **Docker** • **VS Code** • **Postman** • **Figma**
 
 ---
 
